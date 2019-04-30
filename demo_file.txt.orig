@@ -1,11 +1,17 @@
 demo file - first line also modified
+<<<<<<< HEAD
 modifying first line also demo file
 adding third line
-<<<<<<< HEAD
-second line
+fifth line
 ||||||| merged common ancestors
-
-=======
+add 1 more line
+modifying first line also demo file
+adding third line
 fifth line
 
->>>>>>> 4fd44225096a6c3c6161975f44cf57ad5e81378d
+=======
+add 1 more line
+m123odifying first line also demo file
+
+
+>>>>>>> f74e8329fe3e611b76e6d35a29d9c1c9ec4876d2
