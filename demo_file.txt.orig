@@ -1,0 +1,11 @@
+demo file - first line also modified
+modifying first line also demo file
+adding third line
+<<<<<<< HEAD
+second line
+||||||| merged common ancestors
+
+=======
+fifth line
+
+>>>>>>> 4fd44225096a6c3c6161975f44cf57ad5e81378d
