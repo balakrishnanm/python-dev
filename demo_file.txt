@@ -1,6 +1,4 @@
-
 demo file - first line also modified
-add 1 more line
 modifying first line also demo file
 adding third line
-
+second line
